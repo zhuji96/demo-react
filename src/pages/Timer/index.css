@@ -1,0 +1,9 @@
+:root {
+    --flex: {
+        display: flex;
+    }
+}
+
+h1 {
+    @apply --flex;
+}
